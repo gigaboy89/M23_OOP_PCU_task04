@@ -1,0 +1,6 @@
+C:\Users\frey\Google Drive\_Studium_GE\M23_OOP\M23_PCU\04_task_M23_PCU_\Aufgabe_4\Aufgabe_4\bin\Debug\Aufgabe_4.exe.config
+C:\Users\frey\Google Drive\_Studium_GE\M23_OOP\M23_PCU\04_task_M23_PCU_\Aufgabe_4\Aufgabe_4\obj\Debug\Aufgabe_4.csprojResolveAssemblyReference.cache
+C:\Users\frey\Google Drive\_Studium_GE\M23_OOP\M23_PCU\04_task_M23_PCU_\Aufgabe_4\Aufgabe_4\bin\Debug\Aufgabe_4.exe
+C:\Users\frey\Google Drive\_Studium_GE\M23_OOP\M23_PCU\04_task_M23_PCU_\Aufgabe_4\Aufgabe_4\bin\Debug\Aufgabe_4.pdb
+C:\Users\frey\Google Drive\_Studium_GE\M23_OOP\M23_PCU\04_task_M23_PCU_\Aufgabe_4\Aufgabe_4\obj\Debug\Aufgabe_4.exe
+C:\Users\frey\Google Drive\_Studium_GE\M23_OOP\M23_PCU\04_task_M23_PCU_\Aufgabe_4\Aufgabe_4\obj\Debug\Aufgabe_4.pdb
